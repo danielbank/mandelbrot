@@ -1,6 +1,3 @@
-extern crate crossbeam;
-extern crate image;
-extern crate num;
 use image::png::PNGEncoder;
 use image::ColorType;
 use num::Complex;
