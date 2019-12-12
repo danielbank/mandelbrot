@@ -11,7 +11,7 @@ This project discussed at the [Desert Rust](https://rust.azdevs.org/) meetup. Th
 1. Build and run the program:
 
 ```
-cargo run -- mandel.png <IMAGE_WIDTHx<IMAGE_HEIGHT> <UPPER_RIGHT_Z> <LOWER_LEFT_Z>
+cargo run -- <FILE_NAME> <IMAGE_WIDTH>x<IMAGE_HEIGHT> <UPPER_RIGHT_Z> <LOWER_LEFT_Z>
 ```
 
 e.g.:
