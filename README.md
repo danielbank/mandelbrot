@@ -4,7 +4,7 @@ A simple Mandelbrot plotter written in Rust following the example in [Programmin
 
 ## Slide Deck
 
-This project discussed at the [Desert Rust](https://rust.azdevs.org/) meetup. The [slide deck](docs/mandelbrot.pdf) is included in this repo in the `/docs` folder.
+This project was discussed at the [Desert Rust](https://rust.azdevs.org/) meetup. The [slide deck](docs/mandelbrot.pdf) is included in this repo in the `/docs` folder.
 
 ## Usage
 
